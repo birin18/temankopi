@@ -164,3 +164,7 @@ textarea::-ms-input-placeholder { /* Microsoft Edge */
         margin-bottom: 10px;
     }
 }
+
+.coffevideo iframe{
+    width: 100%;
+}
